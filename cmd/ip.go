@@ -21,8 +21,9 @@ import (
 	"log"
 	"net"
 	"os"
-	"tcreport/threatcrowd"
 	"time"
+
+	"github.com/aka0/threatcrowd"
 
 	"github.com/spf13/cobra"
 )
